@@ -1,0 +1,26 @@
+# SmartBot - Rule Based Chatbot
+
+## Description
+This is a simple Rule-Based Chatbot developed using Python for the CODSOFT Artificial Intelligence Internship - Task 1.
+
+## Features
+- Greeting Messages
+- About Chatbot
+- Current Date
+- Current Time
+- Calculator
+- Motivational Quotes
+- Programming Jokes
+- Help Menu
+- Exit Option
+
+## Technologies Used
+- Python 3
+
+## How to Run
+1. Open the project in VS Code.
+2. Run:
+   python chatbot.py
+
+## Author
+Vinay
